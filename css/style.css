@@ -101,6 +101,10 @@ footer {
         cursor: pointer;
     }
 
+    .component:hover {
+        box-shadow: 16px 16px #000;
+    }
+
     .tag-button {
         font-size: .875rem;
         padding: .5rem .75rem;
