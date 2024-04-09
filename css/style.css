@@ -1,0 +1,43 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+.component {
+    min-width: 327px;
+    max-width: 384px;
+    border: 1px solid black;
+    box-shadow: 8px 8px #000;
+    border-radius: 20px;
+    padding: 1.5rem;
+}
+}
+
+
+.blog-image {
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+}
