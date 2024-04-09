@@ -103,6 +103,7 @@ footer {
 
     .component:hover {
         box-shadow: 16px 16px #000;
+        cursor: pointer;
     }
 
     .tag-button {
