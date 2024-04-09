@@ -101,7 +101,7 @@ footer {
         cursor: pointer;
     }
 
-    .component:hover h1 {
+    .component:hover > h1 {
         color: hsl(47, 88%, 63%);
     }
 
